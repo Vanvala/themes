@@ -6,6 +6,8 @@ Template Name: Contuct Us
 ?>
 <?php get_header();?>
 
+<section class="page-wrap">
+
 <div class="container">
 
     <h1><?php the_title();?></h1>
@@ -23,6 +25,6 @@ Template Name: Contuct Us
 
 </div>
 
-
+</section>
 
 <?php get_footer();?>
